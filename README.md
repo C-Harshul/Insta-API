@@ -1,4 +1,4 @@
-<h1 align="center"> CSV -upload  </h1>
+<h1 align="center"> Insta-API  </h1>
 <h2> POSTMAN COLLECTION TO TEST THE API </h2>
 
 -> https://www.getpostman.com/collections/eb2a228cd6ea8c04021d
