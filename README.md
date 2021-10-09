@@ -3,6 +3,11 @@
 
 -> https://www.getpostman.com/collections/eb2a228cd6ea8c04021d
 
+<h2> Video demo of the API </h2>
+
+-> https://www.youtube.com/watch?v=TT7_cCSFHU0
+
+
 <h2> Route endpoints </h2>
 
 <h4> Local URL -> localhost:8080 </h4>
@@ -24,7 +29,7 @@
 
 <h3>How to run the server locally</h3>
 
-- Run `git clone https://github.com/C-Harshul/CSV-upload.git` on your terminal
+- Run `https://github.com/C-Harshul/Insta-API.git` on your terminal
 
 - Go to the terminal and run `go run main.go`
 
